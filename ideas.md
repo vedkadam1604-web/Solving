@@ -6,3 +6,5 @@
 - **2026-10-13**: Write a fuzzer for a config parser to catch edge cases.
 
 - **2026-10-16**: Create a browser extension that highlights deprecated APIs.
+
+- **2026-10-16**: Build a tool that scores code readability automatically.
