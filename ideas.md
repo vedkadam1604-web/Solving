@@ -8,3 +8,5 @@
 - **2026-10-16**: Create a browser extension that highlights deprecated APIs.
 
 - **2026-10-16**: Build a tool that scores code readability automatically.
+
+- **2026-10-17**: Make a personal dashboard that tracks reading progress.
