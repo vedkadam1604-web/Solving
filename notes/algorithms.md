@@ -6,3 +6,7 @@
 ### 2026-10-17
 
 - Dynamic programming avoids recomputation via memoisation.
+
+### 2026-10-18
+
+- Dynamic programming avoids recomputation via memoisation.
