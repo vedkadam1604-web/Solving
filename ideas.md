@@ -10,3 +10,5 @@
 - **2026-10-16**: Build a tool that scores code readability automatically.
 
 - **2026-10-17**: Make a personal dashboard that tracks reading progress.
+
+- **2026-10-19**: Build a tiny static site generator in under 200 lines.
