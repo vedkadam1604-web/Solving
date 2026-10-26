@@ -26,3 +26,5 @@
 - **2026-10-25**: Make a personal dashboard that tracks reading progress.
 
 - **2026-10-26**: Create a browser extension that highlights deprecated APIs.
+
+- **2026-10-26**: Build a CLI tool to visualise git history as a flamegraph.
