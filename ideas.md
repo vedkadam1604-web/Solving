@@ -28,3 +28,5 @@
 - **2026-10-26**: Create a browser extension that highlights deprecated APIs.
 
 - **2026-10-26**: Build a CLI tool to visualise git history as a flamegraph.
+
+- **2026-10-28**: Experiment with WASM for running Python in the browser.
