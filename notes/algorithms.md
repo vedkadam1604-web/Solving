@@ -14,3 +14,7 @@
 ### 2026-10-20
 
 - Dijkstra's algorithm requires non-negative edge weights.
+
+### 2026-10-28
+
+- Dynamic programming avoids recomputation via memoisation.
