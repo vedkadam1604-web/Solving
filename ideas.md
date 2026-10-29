@@ -30,3 +30,5 @@
 - **2026-10-26**: Build a CLI tool to visualise git history as a flamegraph.
 
 - **2026-10-28**: Experiment with WASM for running Python in the browser.
+
+- **2026-10-29**: Write a script that auto-generates release notes from PR titles.
