@@ -32,3 +32,5 @@
 - **2026-10-28**: Experiment with WASM for running Python in the browser.
 
 - **2026-10-29**: Write a script that auto-generates release notes from PR titles.
+
+- **2026-10-30**: Create a browser extension that highlights deprecated APIs.
