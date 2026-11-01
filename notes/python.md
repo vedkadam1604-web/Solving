@@ -26,3 +26,7 @@
 ### 2026-11-01
 
 - Type hints improve readability and enable static analysis.
+
+### 2026-11-01
+
+- Use `dataclasses` to auto-generate `__init__`, `__repr__`, and `__eq__`.
