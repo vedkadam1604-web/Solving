@@ -40,3 +40,5 @@
 - **2026-10-31**: Write a fuzzer for a config parser to catch edge cases.
 
 - **2026-11-01**: Make a personal dashboard that tracks reading progress.
+
+- **2026-11-01**: Make a personal dashboard that tracks reading progress.
