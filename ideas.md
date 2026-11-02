@@ -42,3 +42,5 @@
 - **2026-11-01**: Make a personal dashboard that tracks reading progress.
 
 - **2026-11-01**: Make a personal dashboard that tracks reading progress.
+
+- **2026-11-02**: Build a tiny static site generator in under 200 lines.
