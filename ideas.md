@@ -46,3 +46,5 @@
 - **2026-11-02**: Build a tiny static site generator in under 200 lines.
 
 - **2026-11-03**: Create a browser extension that highlights deprecated APIs.
+
+- **2026-11-03**: Create a VS Code extension that times how long you spend per file.
