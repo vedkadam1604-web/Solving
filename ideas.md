@@ -44,3 +44,5 @@
 - **2026-11-01**: Make a personal dashboard that tracks reading progress.
 
 - **2026-11-02**: Build a tiny static site generator in under 200 lines.
+
+- **2026-11-03**: Create a browser extension that highlights deprecated APIs.
