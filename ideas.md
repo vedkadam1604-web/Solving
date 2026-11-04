@@ -48,3 +48,5 @@
 - **2026-11-03**: Create a browser extension that highlights deprecated APIs.
 
 - **2026-11-03**: Create a VS Code extension that times how long you spend per file.
+
+- **2026-11-04**: Make a personal dashboard that tracks reading progress.
