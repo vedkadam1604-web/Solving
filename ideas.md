@@ -50,3 +50,5 @@
 - **2026-11-03**: Create a VS Code extension that times how long you spend per file.
 
 - **2026-11-04**: Make a personal dashboard that tracks reading progress.
+
+- **2026-11-05**: Write a fuzzer for a config parser to catch edge cases.

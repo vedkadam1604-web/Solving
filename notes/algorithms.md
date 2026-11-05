@@ -22,3 +22,7 @@
 ### 2026-11-04
 
 - Dynamic programming avoids recomputation via memoisation.
+
+### 2026-11-05
+
+- Binary search works on sorted arrays in O(log n).
