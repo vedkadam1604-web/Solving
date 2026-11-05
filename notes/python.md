@@ -30,3 +30,7 @@
 ### 2026-11-01
 
 - Use `dataclasses` to auto-generate `__init__`, `__repr__`, and `__eq__`.
+
+### 2026-11-05
+
+- Generator expressions are memory-efficient alternatives to list comprehensions.
