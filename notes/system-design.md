@@ -26,3 +26,7 @@
 ### 2026-11-03
 
 - Load balancers distribute requests across multiple servers.
+
+### 2026-11-08
+
+- CAP theorem: a distributed system can only guarantee two of consistency, availability, partition tolerance.
