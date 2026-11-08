@@ -26,3 +26,7 @@
 ### 2026-11-05
 
 - Binary search works on sorted arrays in O(log n).
+
+### 2026-11-08
+
+- A heap is a complete binary tree satisfying the heap property.
