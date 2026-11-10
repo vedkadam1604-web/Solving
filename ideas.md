@@ -60,3 +60,5 @@
 - **2026-11-08**: Build a tool that scores code readability automatically.
 
 - **2026-11-09**: Make a personal dashboard that tracks reading progress.
+
+- **2026-11-10**: Build a CLI tool to visualise git history as a flamegraph.
