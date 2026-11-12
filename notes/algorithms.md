@@ -34,3 +34,7 @@
 ### 2026-11-10
 
 - Dijkstra's algorithm requires non-negative edge weights.
+
+### 2026-11-12
+
+- Dijkstra's algorithm requires non-negative edge weights.
