@@ -64,3 +64,5 @@
 - **2026-11-10**: Build a CLI tool to visualise git history as a flamegraph.
 
 - **2026-11-11**: Write a fuzzer for a config parser to catch edge cases.
+
+- **2026-11-12**: Automate dependency updates with a custom bot.
