@@ -38,3 +38,7 @@
 ### 2026-11-12
 
 - Horizontal scaling adds more machines; vertical scaling adds more resources to one machine.
+
+### 2026-11-12
+
+- CDNs cache static assets closer to end users.
