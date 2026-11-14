@@ -42,3 +42,7 @@
 ### 2026-11-12
 
 - CDNs cache static assets closer to end users.
+
+### 2026-11-14
+
+- CDNs cache static assets closer to end users.

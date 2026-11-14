@@ -70,3 +70,5 @@
 - **2026-11-12**: Write a fuzzer for a config parser to catch edge cases.
 
 - **2026-11-13**: Automate dependency updates with a custom bot.
+
+- **2026-11-14**: Create a VS Code extension that times how long you spend per file.
