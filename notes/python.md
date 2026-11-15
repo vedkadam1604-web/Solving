@@ -34,3 +34,7 @@
 ### 2026-11-05
 
 - Generator expressions are memory-efficient alternatives to list comprehensions.
+
+### 2026-11-15
+
+- `pathlib.Path` is the modern way to handle file paths.
