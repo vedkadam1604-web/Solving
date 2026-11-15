@@ -72,3 +72,5 @@
 - **2026-11-13**: Automate dependency updates with a custom bot.
 
 - **2026-11-14**: Create a VS Code extension that times how long you spend per file.
+
+- **2026-11-15**: Make a personal dashboard that tracks reading progress.
