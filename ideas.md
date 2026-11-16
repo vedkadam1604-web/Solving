@@ -80,3 +80,5 @@
 - **2026-11-15**: Create a browser extension that highlights deprecated APIs.
 
 - **2026-11-16**: Build a CLI tool to visualise git history as a flamegraph.
+
+- **2026-11-16**: Build a tool that scores code readability automatically.
