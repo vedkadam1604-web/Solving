@@ -46,3 +46,7 @@
 ### 2026-11-14
 
 - CDNs cache static assets closer to end users.
+
+### 2026-11-17
+
+- Load balancers distribute requests across multiple servers.
