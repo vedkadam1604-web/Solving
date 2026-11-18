@@ -86,3 +86,5 @@
 - **2026-11-17**: Automate dependency updates with a custom bot.
 
 - **2026-11-18**: Build a tool that scores code readability automatically.
+
+- **2026-11-18**: Write a script that auto-generates release notes from PR titles.

@@ -38,3 +38,7 @@
 ### 2026-11-15
 
 - `pathlib.Path` is the modern way to handle file paths.
+
+### 2026-11-18
+
+- `functools.lru_cache` is great for caching recursive calls.
