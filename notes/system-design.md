@@ -50,3 +50,7 @@
 ### 2026-11-17
 
 - Load balancers distribute requests across multiple servers.
+
+### 2026-11-18
+
+- Message queues decouple producers from consumers.
