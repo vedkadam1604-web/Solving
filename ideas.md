@@ -88,3 +88,5 @@
 - **2026-11-18**: Build a tool that scores code readability automatically.
 
 - **2026-11-18**: Write a script that auto-generates release notes from PR titles.
+
+- **2026-11-19**: Create a browser extension that highlights deprecated APIs.
