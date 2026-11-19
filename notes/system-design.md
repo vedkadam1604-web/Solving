@@ -54,3 +54,7 @@
 ### 2026-11-18
 
 - Message queues decouple producers from consumers.
+
+### 2026-11-19
+
+- Horizontal scaling adds more machines; vertical scaling adds more resources to one machine.
