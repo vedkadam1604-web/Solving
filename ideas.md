@@ -90,3 +90,5 @@
 - **2026-11-18**: Write a script that auto-generates release notes from PR titles.
 
 - **2026-11-19**: Create a browser extension that highlights deprecated APIs.
+
+- **2026-11-20**: Write a fuzzer for a config parser to catch edge cases.
