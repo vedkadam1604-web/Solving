@@ -42,3 +42,7 @@
 ### 2026-11-18
 
 - `functools.lru_cache` is great for caching recursive calls.
+
+### 2026-11-20
+
+- Type hints improve readability and enable static analysis.
