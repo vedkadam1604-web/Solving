@@ -46,3 +46,7 @@
 ### 2026-11-20
 
 - Type hints improve readability and enable static analysis.
+
+### 2026-11-22
+
+- Generator expressions are memory-efficient alternatives to list comprehensions.
