@@ -38,3 +38,7 @@
 ### 2026-11-12
 
 - Dijkstra's algorithm requires non-negative edge weights.
+
+### 2026-11-24
+
+- A heap is a complete binary tree satisfying the heap property.
