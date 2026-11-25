@@ -104,3 +104,5 @@
 - **2026-11-24**: Automate dependency updates with a custom bot.
 
 - **2026-11-24**: Build a CLI tool to visualise git history as a flamegraph.
+
+- **2026-11-25**: Build a CLI tool to visualise git history as a flamegraph.
