@@ -106,3 +106,5 @@
 - **2026-11-24**: Build a CLI tool to visualise git history as a flamegraph.
 
 - **2026-11-25**: Build a CLI tool to visualise git history as a flamegraph.
+
+- **2026-11-25**: Write a script that auto-generates release notes from PR titles.
