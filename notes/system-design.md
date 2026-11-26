@@ -62,3 +62,7 @@
 ### 2026-11-20
 
 - CDNs cache static assets closer to end users.
+
+### 2026-11-26
+
+- CAP theorem: a distributed system can only guarantee two of consistency, availability, partition tolerance.
