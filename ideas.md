@@ -110,3 +110,5 @@
 - **2026-11-25**: Write a script that auto-generates release notes from PR titles.
 
 - **2026-11-26**: Create a browser extension that highlights deprecated APIs.
+
+- **2026-11-27**: Make a personal dashboard that tracks reading progress.
